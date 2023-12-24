@@ -1,0 +1,11 @@
+QueueTime: 30 #Seconds
+BlacklistedWorlds:
+  - world
+Queue:
+  Broadcast:
+    - ''
+    - ''
+    - 'Explostions and mined blocks queue has just triggered'
+    - ''
+    - ''
+    - ''

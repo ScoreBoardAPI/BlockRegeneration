@@ -1,0 +1,7 @@
+name: BlockRegeneration
+author: ScoreBoardAPI
+version: 1.2
+main: me.scoreboardapi.blockregeneration.BlockRegeneration
+api-version: 1.16
+depends:
+  - Commands
